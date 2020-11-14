@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="189.5226mm"
+   height="82.199295mm"
+   viewBox="0 0 189.5226 82.199295"
    version="1.1"
    id="svg4420"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="400"
-     inkscape:cy="560"
+     inkscape:cx="361.30256"
+     inkscape:cy="154.07743"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -34,7 +34,11 @@
      inkscape:window-height="1052"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata4417">
     <rdf:RDF>
@@ -50,10 +54,11 @@
   <g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-10.238698,-107.40035)">
     <g
        id="g3798"
-       transform="matrix(0,-0.26458333,0.26458333,0,91.770834,161.72943)">
+       transform="matrix(0,-2.2296777,2.2296777,0,-6.483885,259.98611)">
       <g
          id="g3736">
         <path
