@@ -2,8 +2,8 @@
 title: "Hammertime à Strasbourg"
 subtitle: Programme d'exercices rationalistes
 image: /img/hammer.png
-blurb:
+programme:
     heading: Description du programme
-    text: "foobar"
+    text: "Les motivations et les exercices de chaque jour"
 ---
 
